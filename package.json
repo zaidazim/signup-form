@@ -1,0 +1,19 @@
+{
+  "name": "fancy_form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "node-sass": "^6.0.1"
+    
+  },
+  "homepage": "https://zaidazim.github.io/signup-form"
+}
